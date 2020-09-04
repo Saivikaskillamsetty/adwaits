@@ -1,0 +1,70 @@
+.firstpage{
+  background-color: #ff9933;
+  font-family: 'Raleway', sans-serif;
+  padding-left: 160px;
+}
+h1{
+
+  font-size: 2rem;
+  font-family: 'Raleway', sans-serif;
+  padding: 10rem 10rem 10rem 0;
+  color: white;
+
+
+
+}
+.logo{
+
+  padding-top: 40px;
+}
+.client1{
+
+  padding-bottom: 40px;
+  font-size: 15px;
+  color: white;
+  font-weight: 600;
+
+
+
+}
+.client2{
+
+  padding-bottom: 40px;
+  font-size: 15px;
+  color: white;
+  font-weight: 600;
+  float: right;
+
+
+}
+div{
+  display: inline-block;
+}
+fieldset{
+  align-content: center;
+  padding-left: 100px;
+}
+.client1 em{
+  font-style: normal;
+  font-weight: 300;
+
+}
+.client em{
+  font-style: normal;
+  font-weight: 300;
+}
+.laptop{
+  padding-left: 16rem;
+
+}
+.background{
+  z-index: 1;
+  position: absolute;
+}
+.video{
+  z-index: 2;
+  position: absolute;
+  padding-top: 230px;
+  padding-left: 160px;
+
+}
